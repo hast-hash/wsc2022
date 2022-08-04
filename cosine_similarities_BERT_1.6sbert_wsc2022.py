@@ -17,7 +17,7 @@ from sentence_transformers.util import cos_sim
 
 
 #variables to be used
-file_directory='C:\\書庫\\研究計画2022\\The Borderers\\'
+file_directory='C:\\Docs\\The Borderers\\'
 filename1 = 'Borderers 1797-99 Cornell.txt'
 filename2 = 'Osorio 1797 Princeton.txt'
 #number_of_lines = 10
